@@ -1,7 +1,7 @@
 # R Crawling and Scrapping
 R code for crawling and scrapping.
 
-##########
+- - - 
 ## Web Scrapping(naver_news).R
 R code for scrapping NAVER news headline.
 
