@@ -4,7 +4,7 @@ R code for scrapping NAVER news
 Code that can scrape both types of news data.
 
 ## 1. Most viewed news headlines in categories.
-    ### Policy (정치)
+### Policy (정치)
     - Economy (경제)
     - Society (사회)
     - Life/Culture (생활/문화)
