@@ -32,3 +32,5 @@ Code that can scrape both types of news data.
     - Financialnews (파이낸셜뉴스)
     - Hankuk Business (한국경제)
     - Herald Business (헤럴드경제)
+
+For more information on the blog: http://nife0719.blog.me/221004203291 
