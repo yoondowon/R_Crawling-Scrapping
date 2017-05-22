@@ -1,7 +1,10 @@
-# R_naver_news_scrapping
-R code for scrapping NAVER news
+# R Crawling and Scrapping
+R code for crawling and scrapping.
 
-## Most viewed news headlines in categories.
+## Web Scrapping(naver_news).R
+R code for scrapping NAVER news headline.
+
+### Most viewed news headlines in categories.
 #### - Policy (정치)
 #### - Economy (경제)
 #### - Society (사회)
@@ -11,7 +14,7 @@ R code for scrapping NAVER news
 #### - TV/Entertainment (TV/연예)
 #### - Sports (스포츠)
  
-## The front page headlines of the newspaper in each press.
+### The front page headlines of the newspaper in each press.
 #### - Kyunghyang (경향신문)
 #### - Kukmin (국민일보)
 #### - Donga (동아일보)
@@ -32,3 +35,6 @@ R code for scrapping NAVER news
 #### - Herald Business (헤럴드경제)
 
 For more information on the blog: http://nife0719.blog.me/221004203291 
+
+
+## 
