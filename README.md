@@ -15,7 +15,7 @@ Code that can scrape both types of news data.
  
 2. The front page headlines of the newspaper in each press.
     - Kyunghyang (경향신문)
-    - Kukmin (국민일보)
+    - Kukmin (국민일보)
     - Donga (동아일보)
     - Munhwa (문화일보)
     - Seoul (서울신문)
