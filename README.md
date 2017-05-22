@@ -5,7 +5,7 @@ Code that can scrape both types of news data.
 
 1. Most viewed news headlines in categories.
     - Policy
-    1.2. Economy
+    - Economy
     1.3. Society
     1.4. Life/Culture
     1.5. World
