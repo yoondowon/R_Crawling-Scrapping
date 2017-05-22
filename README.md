@@ -1,16 +1,17 @@
 # R_naver_news_scrapping
-R code for scrapping NAVER news /n
+R code for scrapping NAVER news
+
 Code that can scrape both types of news data.
 
 1. Most viewed news headlines in categories.
-    1.1 Policy
-    1.2 Economy
-    1.3 Society
-    1.4 Life/Culture
-    1.5 World
-    1.6 IT/Science
-    1.7 TV/Entertainment
-    1.8 Sports
+    1.1. Policy
+    1.2. Economy
+    1.3. Society
+    1.4. Life/Culture
+    1.5. World
+    1.6. IT/Science
+    1.7. TV/Entertainment
+    1.8. Sports
  
 2. The front page headlines of the newspaper in each press.
     2.1 Kyunghyang
