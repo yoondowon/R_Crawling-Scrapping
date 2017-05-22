@@ -1,5 +1,5 @@
 # R_naver_news_scrapping
-R code for scrapping NAVER news
+R code for scrapping NAVER news /n
 Code that can scrape both types of news data.
 
 1. Most viewed news headlines in categories.
