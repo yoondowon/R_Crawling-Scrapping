@@ -2,7 +2,7 @@
 R code for scrapping NAVER news
 Code that can scrape both types of news data.
 
-1. Most viewed news headlines in categories
+1. Most viewed news headlines in categories.
 1.1 Policy
 1.2 Economy
 1.3 Society
@@ -12,7 +12,7 @@ Code that can scrape both types of news data.
 1.7 TV/Entertainment
 1.8 Sports
  
-2. The front page headlines of the newspaper in each press
+2. The front page headlines of the newspaper in each press.
 2.1 Kyunghyang
 2.2 Kukmin
 2.3 Donga
