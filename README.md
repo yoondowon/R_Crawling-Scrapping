@@ -1,11 +1,14 @@
-# R Crawling and Scrapping
-R code for crawling and scrapping.
+# Web Crawling(Scrapping): NAVER News
+R code for crawling about NAVER News
+네이버 뉴스를 크롤링하는 R 코드입니다
 
 - - - 
-## Web Scrapping(naver_news).R
-R code for scrapping NAVER news headline.
+## Most viewed news headlines in categories
+Crawling the headline for the most viewed news.
+네이버 뉴스의 랭킹 뉴스(많이 본 뉴스)의 각 카테고리별 헤드 라인을 크롤링합니다.
+랭킹 뉴스:http://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
 
-### Most viewed news headlines in categories.
+### Category
 #### - Policy (정치)
 #### - Economy (경제)
 #### - Society (사회)
@@ -15,7 +18,13 @@ R code for scrapping NAVER news headline.
 #### - TV/Entertainment (TV/연예)
 #### - Sports (스포츠)
  
-### The front page headlines of the newspaper in each press.
+
+## Most viewed news headlines in categories
+Crawling the headline on the first page of newspaper.
+종이 신문을 발행하는 언론사별 신문 1면 헤드라인을 크롤링합니다.
+언론사 뉴스: http://news.naver.com/main/officeList.nhn
+
+### Office List
 #### - Kyunghyang (경향신문)
 #### - Kukmin (국민일보)
 #### - Donga (동아일보)
@@ -39,4 +48,4 @@ For more information on the blog: http://nife0719.blog.me/221004203291
 
 
 - - - 
-## 
+
