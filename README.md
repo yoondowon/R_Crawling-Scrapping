@@ -2,7 +2,6 @@
 R code for crawling about NAVER News
 네이버 뉴스를 크롤링하는 R 코드입니다
 
-- - - 
 ## Most viewed news headlines in categories
 Crawling the headline for the most viewed news.
 네이버 뉴스의 랭킹 뉴스(많이 본 뉴스)의 각 카테고리별 헤드 라인을 크롤링합니다.
@@ -47,5 +46,4 @@ Crawling the headline on the first page of newspaper.
 For more information on the blog: http://nife0719.blog.me/221004203291 
 
 
-- - - 
 
