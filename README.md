@@ -6,7 +6,7 @@ R code for crawling about NAVER News
 ## Most viewed news headlines in categories
 Crawling the headline for the most viewed news.
 
-네이버 뉴스의 랭킹 뉴스(많이 본 뉴스)의 각 카테고리별 헤드 라인을 크롤링합니다.
+랭킹 뉴스(많이 본 뉴스)의 각 카테고리별 헤드 라인을 크롤링합니다.
 
 랭킹 뉴스:http://news.naver.com/main/ranking/popularDay.nhn?mid=etc&sid1=111
 
